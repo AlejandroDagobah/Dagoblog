@@ -1,17 +1,21 @@
 body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: springgreen;
+    color: red;
 
 }
 h1{
-    font-size: 50px;
+    font-size: 100px;
     text-align: center;
 }
 
 p{
     font-weight: bold;
     align-content: center;
-    font-size: 30px;
+    font-size: 60px;
     text-align: center;
 
+}
+
+#container{
+    background-color:beige;
 }
