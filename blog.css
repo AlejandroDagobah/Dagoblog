@@ -1,18 +1,35 @@
 body{
     font-family: poppins;
 }
+
 h1{
     font-size: 100px;
-    text-align: center;
 }
 
 p{
     font-weight: bold;
-    align-content: center;
-    text-align: center;
-    font-size: 20px;
+    font-size: 60px;
+
+}
+
+#cabecera{
+    background-color: dimgray;
+    padding: 20px;
+}
+
+#cabecera > h2 {
+    font-size: 40px;
+    color: white;
 }
 
 #container{
-    background-color:beige;
+    margin-left: 150px;
+    margin-right: 150px;
+    border: 1px solid black;
+
+}
+
+#post{
+    padding: 30px;
+
 }
