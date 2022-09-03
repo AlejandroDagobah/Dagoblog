@@ -1,5 +1,6 @@
 body{
     font-family: poppins;
+    background-color: rgb(44, 44, 44)
 }
 
 h1{
@@ -15,17 +16,35 @@ p{
 #cabecera{
     background-color: rgb(72, 63, 197);
     padding: 20px;
+    height: 100px;
 }
 
 #cabecera > h2 {
     font-size: 40px;
     color: white;
+    vertical-align: center;
+
+}
+
+#cabecera h2, #cabecera #logo {
+    display: inline-block;
+ 
+}
+
+#logo{
+    width: 60px ;
+    margin-right: 20px;
+    margin-top: 20px;
+    vertical-align: center;
 }
 
 #container{
-    margin-left: 150px;
-    margin-right: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
     border: 1px solid black;
+    background-color: white;
 
 }
 
