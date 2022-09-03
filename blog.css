@@ -52,3 +52,10 @@ p{
     padding: 30px;
 
 }
+
+footer{
+    padding: 20px;
+    height: 300px;
+    color: white;
+    background-color: rgb(48, 42, 136);
+}
