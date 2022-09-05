@@ -12,4 +12,6 @@ Si quieres saber más de mí puedes visitar mi sitio web: [aledevelops.com](http
 
 o mi [instagram de trabajo ](http://https://www.instagram.com/ale_develops/ "instagram de trabajo ")
 
-*Creado por el increible Alejandro Dagobah
+* Creado por el increible Alejandro Dagobah
+* Incluye fotos mias
+* Disponible 
